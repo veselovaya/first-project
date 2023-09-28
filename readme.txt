@@ -1,0 +1,1 @@
+Trainig project for working with Git
